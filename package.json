@@ -21,7 +21,9 @@
   "homepage": "https://github.com/bryamrr/guitargram#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "materialize-css": "^0.97.6"
+    "install": "^0.8.1",
+    "materialize-css": "^0.97.6",
+    "pug": "^2.0.0-beta4"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
