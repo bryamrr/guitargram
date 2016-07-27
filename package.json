@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/bryamrr/guitargram#readme",
   "dependencies": {
+    "empty-element": "^1.0.0",
     "express": "^4.14.0",
     "install": "^0.8.1",
     "materialize-css": "^0.97.6",
     "page": "^1.7.1",
-    "pug": "^2.0.0-beta4"
+    "pug": "^2.0.0-beta4",
+    "yo-yo": "^1.2.2"
   },
   "devDependencies": {
     "babelify": "^7.3.0",
